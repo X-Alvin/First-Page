@@ -1,0 +1,5 @@
+MYSQL_HOST = 'w.rdc.sae.sina.com.cn'
+MYSQL_PORT = '3307'
+MYSQL_USER = 'mr-alvin@qq.com'
+MYSQL_PASS = 'Alvin1127'
+MYSQL_DB   = 'app_alvinone'
